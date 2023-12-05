@@ -26,3 +26,4 @@ int main(){
     printf("The sum of all number with the even index is:%d", EvenIndexSum);
     return 0;
 }
+//Dit me Lan
